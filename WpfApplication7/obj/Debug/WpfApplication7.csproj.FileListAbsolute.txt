@@ -1,0 +1,15 @@
+D:\VS\project\WpfApplication7\WpfApplication7\bin\Debug\WpfApplication7.exe.config
+D:\VS\project\WpfApplication7\WpfApplication7\bin\Debug\WpfApplication7.exe
+D:\VS\project\WpfApplication7\WpfApplication7\bin\Debug\WpfApplication7.pdb
+D:\VS\project\WpfApplication7\WpfApplication7\obj\Debug\MainWindow.g.cs
+D:\VS\project\WpfApplication7\WpfApplication7\obj\Debug\App.g.cs
+D:\VS\project\WpfApplication7\WpfApplication7\obj\Debug\WpfApplication7_MarkupCompile.cache
+D:\VS\project\WpfApplication7\WpfApplication7\obj\Debug\WpfApplication7_MarkupCompile.lref
+D:\VS\project\WpfApplication7\WpfApplication7\obj\Debug\MainWindow.baml
+D:\VS\project\WpfApplication7\WpfApplication7\obj\Debug\WpfApplication7.g.resources
+D:\VS\project\WpfApplication7\WpfApplication7\obj\Debug\WpfApplication7.Properties.Resources.resources
+D:\VS\project\WpfApplication7\WpfApplication7\obj\Debug\WpfApplication7.csproj.GenerateResource.Cache
+D:\VS\project\WpfApplication7\WpfApplication7\obj\Debug\WpfApplication7.exe
+D:\VS\project\WpfApplication7\WpfApplication7\obj\Debug\WpfApplication7.pdb
+D:\VS\project\WpfApplication7\WpfApplication7\obj\Debug\Window1.g.cs
+D:\VS\project\WpfApplication7\WpfApplication7\obj\Debug\Window1.baml

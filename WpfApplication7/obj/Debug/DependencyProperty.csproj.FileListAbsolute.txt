@@ -1,0 +1,3 @@
+D:\VS\project\WpfApplication7\WpfApplication7\bin\Debug\WpfApplication7.exe.config
+D:\VS\project\WpfApplication7\WpfApplication7\obj\Debug\WpfApplication7.exe
+D:\VS\project\WpfApplication7\WpfApplication7\obj\Debug\WpfApplication7.pdb
