@@ -1,0 +1,2 @@
+# DependencyProperty
+WPF 数据双向绑定自动通知的两种方式练习  使用INotifyPropertyChanged及DependencyProperty
